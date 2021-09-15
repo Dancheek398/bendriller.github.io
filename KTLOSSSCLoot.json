@@ -21,7 +21,7 @@
 			"wowID":"30048"
 		},
 		"Fathomstone":{
-			"prio":["Lock","EP/GP"],
+			"prio":["Lock/Ele","EP/GP"],
 			"gp":"5",
 			"wowID":"30049"
 		},
@@ -170,7 +170,7 @@
 			"wowID":"30091"
 		},
 		"Tsunami Talisman":{
-			"prio":["Warrior DPS/Enh","EP/GP"],
+			"prio":["Rogue/Enh/Hunter/Feral","EP/GP"],
 			"gp":"8",
 			"wowID":"30627"
 		}
