@@ -11,7 +11,7 @@
 			"wowID":"30282"
 		},
 		"Pattern: Boots of Natural Grace":{
-			"prio":["EP/GP"],
+			"prio":["Feral LW", "EP/GP"],
 			"gp":"",
 			"wowID":"30305"
 		},
@@ -197,7 +197,7 @@
 			"wowID":"29977"
 		},
 		"Star-Strider Boots":{
-			"prio":["EP/GP"],
+			"prio":["Ret", "EP/GP"],
 			"gp":"5",
 			"wowID":"29951"
 		},
@@ -222,7 +222,7 @@
 			"wowID":"29982"
 		},
 		"Worldstorm Gauntlets":{
-			"prio":["EP/GP"],
+			"prio":["Resto Shaman>Holy Pally", "EP/GP"],
 			"gp":"5",
 			"wowID":"29976"
 		}
@@ -254,7 +254,7 @@
 			"wowID":"30237"
 		},
 		"Band of the Ranger-General":{
-			"prio":["Warrior/Hunter>Rogue/Enh","EP/GP"],
+			"prio":["Rogue/Enh/Warrior","EP/GP"],
 			"gp":"6",
 			"wowID":"29997"
 		},
@@ -264,12 +264,12 @@
 			"wowID":"29990"
 		},
 		"Gauntlets of the Sun King":{
-			"prio":["EP/GP"],
+			"prio":["Arc Mage>spriest/boomkin", "EP/GP"],
 			"gp":"6",
 			"wowID":"29987"
 		},
 		"Leggings of Murderous Intent":{
-			"prio":["Hunters/Rogues/Warrior","EP/GP"],
+			"prio":["Hunters>Ret/Warrior","EP/GP"],
 			"gp":"7",
 			"wowID":"29995"
 		},
@@ -279,7 +279,7 @@
 			"wowID":"29996"
 		},
 		"Royal Cloak of the Sunstriders":{
-			"prio":["Spriest/Mage/Afflic Lock","EP/GP"],
+			"prio":["Spriest/Arc Mage/Prot Pally>Afflic Lock","EP/GP"],
 			"gp":"6",
 			"wowID":"29992"
 		},
@@ -299,7 +299,7 @@
 			"wowID":"29989"
 		},
 		"Thalassian Wildercloak":{
-			"prio":["Hunter/Enh/Feral","EP/GP"],
+			"prio":["Surv Hunter>BM Hunter>Enh/Feral bis in p3 for tanking","EP/GP"],
 			"gp":"6",
 			"wowID":"29994"
 		},
